@@ -1,5 +1,7 @@
 # Oracle Cloud ARM Free Tier - Auto Retry Script
 
+> **주의:** 버그가 있을 수 있으며 정상 동작을 보장하지 않습니다. 사용에 따른 책임은 본인에게 있습니다.
+
 Oracle Cloud(OCI) ARM 인스턴스(VM.Standard.A1.Flex)를 용량이 확보될 때까지 자동으로 재시도하며 생성하는 스크립트입니다.
 
 ---
